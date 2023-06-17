@@ -18,4 +18,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 I am an Algorithm Developer at National Aerospace Science & Technology Park (NASTP). I completed my MS in Electrical Engineering at Air University, with Syed Ahmed Pasha as my thesis advisor. My research interests lie broadly in statistical signal processing, machine learning, and optimization. More specifically, 
-I am interested in developing novel algorithms based on efficient statistical learning techniques to address the challenges associated with modern high dimensional datasets. In addition, I like to implement distributed optimization techniques in developing fast algorithms for solving complex problems in the domains of signal processing and neuroimaging.
+I am interested in developing novel algorithms based on efficient statistical learning techniques to address the challenges associated with modern high dimensional datasets. 
+
+In addition, I like to implement distributed optimization techniques in developing fast algorithms for solving complex problems in the domains of signal processing and neuroimaging.
