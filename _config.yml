@@ -136,7 +136,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # the information below.
 giscus:
   repo: MaiMoonaa/l0LS_TV_ADMM      # <your-github-user-name>/<your-github-repo-name>
-  repo_id: 663775172
+  repo_id: 663775172==
   
 
 # Disqus comments (DEPRECATED)
