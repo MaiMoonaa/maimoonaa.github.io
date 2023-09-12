@@ -3,7 +3,7 @@ github_users:
   #- alshedivat
 
 github_repos:
-  - MaiMoonaa/l0LS_TV_ADMM
+ # - MaiMoonaa/l0LS_TV_ADMM
   #- twbs/bootstrap
   #- jekyll/jekyll
   #- jquery/jquery
