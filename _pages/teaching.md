@@ -2,11 +2,24 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: #Materials for courses you taught. Replace this text with your description.
 nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+{\bf UET-CASE ECE Dept.} \hfill Sep 2017-Dec 2019 \\
+{\sl Lab Engineer} \\
+Designed, conducted, and graded laboratory exercises in accordance with outcome-based education 
+(OBE) system for the following undergraduate-level courses \\
+UET CS 203L OOP \& Data Structures using C++ \hfill Fall 2019\\
+UET CS 102L Programming Fundamentals  \hfill Spring 2018 \\
+UET EE 3402 Data Communication Networks \hfill Spring 2018 \\
+UET CS 101L Introduction to Computing \hfill Fall 2017 \\
+UET CS 203L OOP \& Data Structures using C++ \hfill Fall 2017 
 
-Organize your courses by years, topics, or universities, however you like!
+{\sl Teaching Assistant}\\
+Conducted office hours and graded course assignments, quizzes, midterm exams, final exams, and term projects. Delivered tutorial lectures synchronized with the course instructor for the following undergraduate-level courses\\
+UET CS 102 Programming Fundamentals  \hfill Spring 2018 \\
+UET CS 101 Introduction to Computing \hfill Fall 2017 \\
+UET CS 203 OOP \& Data Structures using C++ \hfill Fall 2017
+
