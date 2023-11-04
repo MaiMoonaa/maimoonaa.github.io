@@ -1,8 +1,8 @@
 ---
 layout: page
-title: In progress 🚧🚀
+title: 
 permalink: /projects/
-description: 
+description: In progress 🚧🚀
 nav: true
 nav_order: 2
 display_categories: [work, fun]
