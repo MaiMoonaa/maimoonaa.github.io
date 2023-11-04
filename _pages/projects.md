@@ -1,6 +1,6 @@
 ---
 layout: page
-title: In progress 🚧
+title: In progress 🚧🚀
 permalink: /projects/
 description: 
 nav: true
