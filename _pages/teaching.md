@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-UET-CASE ECE Dept. \hfill Sep 2017-Dec 2019 \\
+UET-CASE ECE Dept.  Sep 2017-Dec 2019 \\
 Lab Engineer \\
 Designed, conducted, and graded laboratory exercises in accordance with outcome-based education 
 (OBE) system for the following undergraduate-level courses \\
