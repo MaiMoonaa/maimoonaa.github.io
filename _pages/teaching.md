@@ -8,7 +8,7 @@ nav_order: 5
 ---
 
 ---
-UET-CASE ECE Dept.  Sep 2017-Dec 2019 \\
+UET-CASE ECE Dept.  Sep 2017-Dec 2019 
 
 ---
 Lab Engineer
