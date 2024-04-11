@@ -11,7 +11,7 @@ nav_order: 5
 UET ECE Dept.  Sep 2017-Dec 2019 
 
 ---
-Lab Engineer
+Lab Engineer \\
 ---
 Designed, conducted, and graded laboratory exercises in accordance with outcome-based education 
 (OBE) system for the following undergraduate-level courses \\
@@ -22,7 +22,7 @@ UET CS 101L Introduction to Computing  Fall 2017 \\
 UET CS 203L OOP & Data Structures using C++  Fall 2017 
 
 ---
-Teaching Assistant
+Teaching Assistant \\
 ---
 Conducted office hours and graded course assignments, quizzes, midterm exams, final exams, and term projects. Delivered tutorial lectures synchronized with the course instructor for the following undergraduate-level courses
 UET CS 203L OOP & Data Structures using C++  Fall 2019 \\
